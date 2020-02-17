@@ -1,0 +1,7 @@
+body{
+    background-color: snow;
+}
+
+header, main, footer{
+    text-align: center;
+}
