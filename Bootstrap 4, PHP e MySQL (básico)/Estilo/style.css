@@ -1,4 +1,19 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: snow;
+}
 .container{
     margin-top: 40px;
     width: 500px; /*Tamanho Container*/
 }
+.botao{
+    text-align: right;
+}
+form{
+    margin-top: 20px;
+}
+.btn{
+    background-color: #FE4365;
+    color: #ffffff;
+}
+
